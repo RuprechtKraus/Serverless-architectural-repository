@@ -1,0 +1,15 @@
+{
+  "promptDelete": false,
+  "propertiesInDocument": "visible",
+  "foldIndent": true,
+  "showIndentGuide": true,
+  "rightToLeft": false,
+  "autoPairMarkdown": true,
+  "smartIndentList": true,
+  "useTab": true,
+  "autoConvertHtml": true,
+  "vimMode": false,
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "legacyEditor": false
+}
